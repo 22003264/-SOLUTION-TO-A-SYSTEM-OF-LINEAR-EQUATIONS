@@ -26,7 +26,8 @@ print(sol)
 ~~~
 
 ## Output:
-![Screenshot (9)](https://user-images.githubusercontent.com/119389139/211524009-faf3e5f2-738a-4e7b-8bd3-679d4d31a2ca.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/119389139/211524258-21eef71c-61ed-4235-a2e2-aadc781fafd5.png)
+
 
 
 ## Result: 
