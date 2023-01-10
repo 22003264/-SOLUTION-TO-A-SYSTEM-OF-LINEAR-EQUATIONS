@@ -26,9 +26,7 @@ print(sol)
 ~~~
 
 ## Output:
-![Screenshot (9)](https://user-images.githubusercontent.com/119389139/211524258-21eef71c-61ed-4235-a2e2-aadc781fafd5.png)
-
-
+![Screenshot (9)](https://user-images.githubusercontent.com/119389139/211524903-0f0ddaeb-51f4-49d2-804b-6a268b13f0bf.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
